@@ -1,5 +1,3 @@
-Of course, here's a README for your project.
-
 # 🎤 ElderlyVoice: AI-Powered & Custom Voice Medication Reminders
 
 **ElderlyVoice** is a complete, serverless medication reminder system designed to help seniors stay on track with their medication schedules. This application allows users to send personalized reminders via **SMS** and **email**. What makes ElderlyVoice unique is its dual-voice functionality: reminders can be delivered using a warm, life-like **AI-generated voice** (powered by AWS Polly) or a **custom voice recording** uploaded by a family member, adding a personal and comforting touch.
