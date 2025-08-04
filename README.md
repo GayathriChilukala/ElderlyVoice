@@ -104,6 +104,19 @@ graph TB
 - **CloudWatch**: Logging, monitoring, and error tracking
 
 ---
+## 📸 Screenshots
+
+### Main Interface
+![Main Interface](<img width="812" height="794" alt="image" src="https://github.com/user-attachments/assets/5bf06cb2-b824-4d07-be29-1cd7343367fb" />
+)
+
+### Voice Recording
+![Voice Recording](<img width="788" height="710" alt="image" src="https://github.com/user-attachments/assets/99175ec8-f46d-45f9-a8c7-5d03db42cf03" />
+)  
+
+### Advanced Scheduling
+![Advanced Scheduling](<img width="558" height="631" alt="image" src="https://github.com/user-attachments/assets/8d0d332f-2b73-4eb0-bd4c-31afef7318d5" />
+)
 
 ## 🚀 **Quick Start**
 
