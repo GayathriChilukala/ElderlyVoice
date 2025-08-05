@@ -107,15 +107,15 @@ graph TB
 ## 📸 Screenshots
 
 ### Main Interface
-<img width="812" height="794" alt="image" src="https://github.com/user-attachments/assets/5bf06cb2-b824-4d07-be29-1cd7343367fb" />
+<img width="656" height="821" alt="Screenshot 2025-08-04 at 9 36 01 PM" src="https://github.com/user-attachments/assets/2a6ded6d-3b53-4357-b194-fa2820368849" />
 
 
 ### Voice Recording
-<img width="788" height="710" alt="image" src="https://github.com/user-attachments/assets/99175ec8-f46d-45f9-a8c7-5d03db42cf03" />
+<img width="656" height="821" alt="Screenshot 2025-08-04 at 9 36 01 PM" src="https://github.com/user-attachments/assets/98c06f97-488a-4b56-9240-cbf0d97a1519" />
   
 
 ### Advanced Scheduling
-<img width="558" height="631" alt="image" src="https://github.com/user-attachments/assets/8d0d332f-2b73-4eb0-bd4c-31afef7318d5" />
+<img width="657" height="483" alt="image" src="https://github.com/user-attachments/assets/0b1c79d2-6dc9-4df3-98b2-3a28727ebd2f" />
 
 
 ## 🚀 **Quick Start**
