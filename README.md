@@ -111,7 +111,7 @@ graph TB
 
 
 ### Voice Recording
-<img width="656" height="821" alt="Screenshot 2025-08-04 at 9 36 01 PM" src="https://github.com/user-attachments/assets/98c06f97-488a-4b56-9240-cbf0d97a1519" />
+<img width="661" height="774" alt="Screenshot 2025-08-04 at 9 36 50 PM" src="https://github.com/user-attachments/assets/4019759d-21ed-488a-b41d-2938e0add2be" />
   
 
 ### Advanced Scheduling
