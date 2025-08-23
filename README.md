@@ -537,10 +537,6 @@ aws logs tail /aws/lambda/elderlyvoice-reminders --follow
 
 ---
 
-## 🤝 **Contributing**
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md).
-
 ### **Development Setup**
 ```bash
 # Clone and setup
@@ -570,19 +566,6 @@ npm run test:integration
 - Use Discussion for feature requests
 - Check existing issues before creating new ones
 - Provide detailed reproduction steps
-
----
-
-## 📄 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👥 **Authors & Maintainers**
-
-- **Main Developer**: [Your Name](https://github.com/yourusername)
-- **Contributors**: See [Contributors](https://github.com/yourusername/elderlyvoice/contributors)
 
 ---
 
